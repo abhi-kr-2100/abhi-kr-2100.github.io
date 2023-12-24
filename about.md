@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I build things with code, sometimes low-level and sometimes cutting-edge. I opine about books and share beautiful algorithms. Join me as we delve into the art and craft of programming, together.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Almost all the code I write outside of work is open-sourced on GitHub:
+[abhi-kr-2100](https://github.com/abhi-kr-2100)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can contact me via email: [abhi.kr.2100](mailto:abhi.kr.2100@gmail.com)
